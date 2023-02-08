@@ -18,7 +18,7 @@ Each log filter applys a different regex pattern match aginst the log results. F
 #### Try-out a few examples using the tester tool
 Our tester tool is a Rundeck job that you can leverage to run a few examples inline and play a bit with your pattern match. The tester toolcan be found on our RDSE instance. [Give it a try!](https://rdse.runbook.pagerduty.cloud/project/PDT-Huggins/job/show/2f2d51ba-52c9-4072-acfb-c8a76c8b3d6c?) Happy to take/include feedabck for enhancements.
 
-![tool](https://github.com/rundeckpro/scm-center-of-excellence/blob/fc181b234b72d677f29ed9c3f94ea643edb99597/regex/regex-tool.png)
+![tool](https://github.com/chobbs/rundeck-regex-cookbook/blob/main/regex-tool.png)
 
 ## Examples
 
