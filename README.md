@@ -22,7 +22,7 @@ Our tester tool is a Rundeck job that you can leverage to run a few examples inl
 
 ## Examples
 
-#### 1. Disk Usage (df)
+#### 1. Disk Usage Example (df)
 
 * filter-type: `multiline`
 * regex-match: `/^.*tmpfs\s*(\w+)/`
